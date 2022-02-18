@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Disproves Spock</string>
+    <string name="puntuacion">Puntuación:</string>
+    <string name="puntos_inicio">0</string>
+    <string name="marcador_inicial">0</string>
+    <string name="guion">-</string>
+    <string name="prefs_file">com.example.disprovesspock.REFERENCE_FILE_KEY</string>
+</resources>

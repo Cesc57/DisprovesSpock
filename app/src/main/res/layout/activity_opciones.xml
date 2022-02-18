@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OpcionesActivity"
+    android:background="@color/blue">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="32dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="24dp" />
+
+    <Button
+        android:id="@+id/btnJuego"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INICIAR PARTIDA"
+        android:textColor="@color/blue"
+        android:layout_marginLeft="108dp"
+        android:layout_marginRight="108dp"
+        android:backgroundTint="#ffcdd2"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+    <Button
+        android:id="@+id/btnInstrucciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INSTRUCCIONES"
+        android:textColor="@color/blue"
+        android:layout_marginLeft="108dp"
+        android:layout_marginRight="108dp"
+        android:backgroundTint="#ffcdd2"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+    <Button
+        android:id="@+id/btnPuntos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PUNTUACIONES"
+        android:textColor="@color/blue"
+        android:layout_marginLeft="108dp"
+        android:layout_marginRight="108dp"
+        android:backgroundTint="#ffcdd2"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+    <Button
+        android:id="@+id/btnCerrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CERRAR SESIÓN"
+        android:textColor="@color/blue"
+        android:layout_marginLeft="108dp"
+        android:layout_marginRight="108dp"
+        android:backgroundTint="#ffcdd2"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/rockpaperscissor" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp"/>
+
+</LinearLayout>

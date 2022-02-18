@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123764062118",
+    "project_id": "disproves-spock",
+    "storage_bucket": "disproves-spock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123764062118:android:6c2fdd09a3e3cf2a3f0167",
+        "android_client_info": {
+          "package_name": "com.example.disprovesspock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123764062118-iplmtufnh91jtt8v1at4tm9bppp5ders.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ng-Vhbtj4qnGmBx7RZvS2aVHMmW27Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123764062118-iplmtufnh91jtt8v1at4tm9bppp5ders.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
